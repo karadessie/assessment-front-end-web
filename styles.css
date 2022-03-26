@@ -1,0 +1,45 @@
+body {
+  background: #fefefe;
+  margin: 1rem;
+  padding: 1rem;
+  max-width: 600px;
+  margin: 2rem auto;
+  font-family: "Yeseva One", Yeseva One;
+}
+
+nav {
+	border-bottom: 2px solid #195905;
+}
+
+ol {
+	padding-left: 0;
+}
+
+.crumb {
+	margin-right: 2em;
+	display: inline;
+}
+#color {
+	background-color: #fdfd66;
+	padding: 8px;
+}
+#place {
+	background-color: #fdfd66;
+	padding: 8px;
+}
+#ritual {
+	background-color: #fdfd66;
+	padding: 8px;
+}
+a {
+	color: #195905;
+}
+
+a:visited {
+	color: #195905;
+}
+
+
+input {
+	display: flex;
+}
